@@ -12,4 +12,4 @@ Heated seats are powered by a heating element, a long strip of material that fun
 
 ![C/C++ CI - Build Status](https://www.code-inspector.com/project/28767/status/svg)
 
-![C/C++ CI - Build Status]https://img.shields.io/github/issues/Fazzanida07/ammaramahavish-embedded-casestudy
+
